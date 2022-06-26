@@ -1,7 +1,14 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"github.com/Nizom98/storage/internal/storage"
+)
 
 func main() {
 	fmt.Println("dsfsf")
+	st := storage.NewStorage()
+	fmt.Println(st)
 }
+
+ //set GOPROXY=https://proxy.golang.org,direct

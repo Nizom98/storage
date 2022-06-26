@@ -1,8 +1,7 @@
 package storage
 
 import (
-	"pets/storage/internal/file"
-
+	"github.com/Nizom98/storage/internal/file"
 	"github.com/google/uuid"
 )
 
