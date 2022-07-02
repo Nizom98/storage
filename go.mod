@@ -1,4 +1,4 @@
-module github.com/Nizom98/storage
+module github.com/Nizom98/storage/v2
 
 go 1.17
 

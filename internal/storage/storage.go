@@ -1,7 +1,7 @@
 package storage
 
 import (
-	"github.com/Nizom98/storage/internal/file"
+	"github.com/Nizom98/storage/v2/internal/file"
 	"github.com/google/uuid"
 )
 

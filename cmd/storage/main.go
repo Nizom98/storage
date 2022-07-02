@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/Nizom98/storage/internal/storage"
+	"github.com/Nizom98/storage/v2/internal/storage"
 )
 
 func main() {
